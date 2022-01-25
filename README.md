@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning the Certified Tech Developer program in Digital House
 - 📫 How to reach me: 
 email: graficojimmy@gmail.com
-LinkedIn: https://www.linkedin.com/in/jimmy-donoso/
 
 <div align="center">
   <a href="https://github.com/JimmyDonoso">
